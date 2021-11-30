@@ -46,12 +46,3 @@ function mens() {
     alert("Soy leyenda (en ingles: I Am Legend) es una pelocula de terror y ciencia ficcion postapocaliptica estadounidense de 2007, dirigida por Francis Lawrence y protagonizada por Will Smith.");
 }
 
-//let eliminarbtn = document.querySelector('.img');
-
-//eliminarbtn.addEventListener('mouseover', eliminar);
-
-//function eliminar() {
-    //alert('Elimino un boton');
-    //let imag = document.querySelector('.img');
-    //imag.src = 'img/inter.jpg';
-//}
